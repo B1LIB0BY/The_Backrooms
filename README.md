@@ -1,5 +1,5 @@
 # The_Backrooms
-Assembly x86 Final Project
+Assembly x86 Final Project.
 
 
 
@@ -14,3 +14,21 @@ Assembly x86 Final Project
 
 ![options](https://github.com/BiliSando/The_Backrooms/assets/121094257/b30ab436-5935-4480-bc7f-dd554dccb2d5)
 
+##Install
+
+- Install [TASM](https://shreyasjejurkar.com/2017/03/27/how-to-install-and-configure-tasm-on-windows-7810/)
+and put it under C:\
+
+- Install [DOSBox](https://www.dosbox.com/download.php?main=1)
+- Clone this repository to C:\tasm\bin\
+- Open up DOSBox and run the game using this commands
+```
+ mount c: c:\
+ c:
+ cd tasm
+ cd bin 
+ tasm /zi Backrooms.asm
+ tlink /v Backrooms.obj
+ Backrooms
+ 
+ ``` 
