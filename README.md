@@ -6,7 +6,7 @@ Assembly x86 Final Project.
 
 
 
-![homescr](https://github.com/BiliSando/The_Backrooms/assets/121094257/30c35d7c-6e62-45a2-ac7f-f0749987ce6e)
+![homescr](https://raw.githubusercontent.com/BiliSando/The_Backrooms/main/homescr.bmp)
 
 ![modes](https://github.com/BiliSando/The_Backrooms/assets/121094257/77028241-3893-4f7b-8fd2-eab7fc89eca6)
 
